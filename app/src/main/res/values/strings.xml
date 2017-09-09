@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="inventories_title">Inventories</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="product_adding_description">Add Products by pressing the Add Button below to Display all Products here!</string>
+</resources>
